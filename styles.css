@@ -27,3 +27,7 @@ body {
 .titulos {
     text-align: center;
 }
+
+.listas {
+    list-style: none;
+}
