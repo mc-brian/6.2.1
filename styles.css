@@ -8,7 +8,7 @@ body {
     border: 5px solid rgb(109, 64, 137);
     border-radius: 10px;
     height: 400px;
-    align-items: center;
+    margin: center;
 }
 
 .link-button {
@@ -19,7 +19,7 @@ body {
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
-    align-items: center;
+    margin: center;
 
 }
 
